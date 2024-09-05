@@ -1,0 +1,16 @@
+.navbar{
+    background: transparent;
+}
+
+.navbar-brand{
+    color: #de1b89;
+    font-weight: 700;
+    pointer-events: none;
+}
+
+.navbar-brand span{
+    background: #de1b89;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
